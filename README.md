@@ -1,2 +1,4 @@
 # editableDiv
-Convert any DIV into contenteditable DIV with placeholder text option.
+
+jQuery plug-in to allow users to edit the content of any DIV by using the content editable attribute with placeholder text feature.
+
