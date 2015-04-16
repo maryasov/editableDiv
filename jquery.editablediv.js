@@ -41,8 +41,6 @@
 			$(this).attr("stage", "edit");
 		}
 		
-		console.log($(this).attr("id")+" .. initial");
-		
 		$(this)
 			.focusin(function() {
 				if ($(this).attr("stage") == "") {
