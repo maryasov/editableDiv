@@ -1,0 +1,15 @@
+<html>
+<script src='jquery-2.1.3.min.js'></script>
+<script src='../jquery.editablediv.js'></script>
+<script>
+$(document).ready( function(){
+		$("#edtr").editableDiv();
+		$("#edtr2").editableDiv("Override placeholder text");
+});
+</script>
+<body>
+	<h1>Convert a simple div into contenteditable div</div>
+	<div style='font-size: 2em;' placeholder='Title' id='edtr'></div>
+	<div style='font-size: 1.5em;' placeholder='Description' id='edtr2'></div>
+</body>
+</html>

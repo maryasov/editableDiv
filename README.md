@@ -1,2 +1,2 @@
 # editableDiv
-Convert any div into contenteditable div with placeholder option
+Convert any DIV into contenteditable DIV with placeholder text option.
